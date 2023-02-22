@@ -5,7 +5,7 @@ import Header from './components/Header';
 function App() {
   return (
     <div >
-    <Header />
+    <Header className="text-blue" />
       <Header />
       <Header text="nugget" />
       <Header />
